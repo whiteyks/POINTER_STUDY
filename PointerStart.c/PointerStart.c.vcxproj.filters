@@ -13,10 +13,19 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\PointerArray">
+      <UniqueIdentifier>{0093dd33-a16d-4fda-94bd-7a029bdf04cf}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\repos\Project14\소스.c">
+    <ClCompile Include="..\..\..\repos\Project14\PointerComment.c">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerOperatorOne.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="PointerArray.c">
+      <Filter>소스 파일\PointerArray</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

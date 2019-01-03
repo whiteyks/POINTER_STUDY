@@ -119,7 +119,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\repos\Project14\소스.c" />
+    <ClCompile Include="..\..\..\repos\Project14\PointerComment.c" />
+    <ClCompile Include="PointerArray.c" />
+    <ClCompile Include="PointerOperatorOne.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
